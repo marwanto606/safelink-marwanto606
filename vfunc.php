@@ -29,7 +29,7 @@ $load = curl_exec($ch);
 curl_close($ch);
 return $load;}
 
-$devkey='AIzaSyD30_pm8sCLe0nCc81CzJR2rnSJrpA_zdk'; // YouTube developer API
+$devkey='AIzaSyC8GyL0hW2j1snibYC_SNiYN5w9R2bT-QA'; // YouTube developer API
 
 
 
